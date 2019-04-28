@@ -1,13 +1,13 @@
 # BTS_SkyTrain
 Visualisation of BTS Skytrain Delayed Data from Twitter official account
 
-Presentation Slide File - Last updated 5 May 2017 (Information Visualization Course, Department of Statistics, Chulalongkorn Business School)
+Presentation Slide PDF File - Last updated 5 May 2017 (Information Visualization Course, Department of Statistics, Chulalongkorn Business School)
 
 <object data="https://raw.githubusercontent.com/jirapoltee/BTS_SkyTrain/master/Presenation_Data_Visualization_Course.pdf
 " type="application/pdf" width="700px" height="700px">
-    <embed src="$https://raw.githubusercontent.com/jirapoltee/BTS_SkyTrain/master/Presenation_Data_Visualization_Course.pdf
+    <embed src="https://raw.githubusercontent.com/jirapoltee/BTS_SkyTrain/master/Presenation_Data_Visualization_Course.pdf
 ">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://raw.githubusercontent.com/jirapoltee/BTS_SkyTrain/master/Presenation_Data_Visualization_Course.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
